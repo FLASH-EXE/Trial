@@ -3,3 +3,6 @@ RUS~(10335=(TAP)=10335)~GOD
 RUS~(10802=(TAP)=10802)~GOD
 1 week #may 2 remove
 RUS~(10312=(TAP)=10312)~GOD
+
+2.5 days #may2 (12:00)
+RUS~(10246=(TAP)=10246)~GOD
